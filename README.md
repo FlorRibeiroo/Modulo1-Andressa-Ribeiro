@@ -1,2 +1,7 @@
-# M-dulo-1-Andressa-Ribeiro
-Aulas e Exercícios
+## Receita de Bolo de Chocolate
+
+- 2 xícaras de farinha  
+- 3 ovos  
+- 1 xícara de açúcar  
+- 1 xícara de chocolate em pó  
+- 1 xícara de leite
